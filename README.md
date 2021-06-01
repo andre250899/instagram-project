@@ -36,7 +36,7 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 ### :rocket: Demonstração 
 
-<img>![demonstration](img\demonstration.png)</img>
+![img demonstration](img\demonstration.png?raw=true)
 
 
 
