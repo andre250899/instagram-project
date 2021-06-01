@@ -4,7 +4,7 @@
 
 ## Projeto Interface Login User (Old) do Instagram
 
-Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Developer, ministrado na Digital Innovation One! 
+Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Developer, ministrado na Digital Innovation One!    
 
 
 
@@ -16,7 +16,7 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 👉  Primeiro contato com Git e GitHub;
 
-👉  Implementação de alguns parâmetros extras além do conteúdo ministrado (links reais, favicon, imagens, etc.).
+👉  Implementação de alguns parâmetros extras além do conteúdo ministrado (links reais, favicon, imagens, etc.).    
 
 
 
@@ -24,7 +24,7 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 ### :rocket: Status do projeto
 
-👉  Finalizado.
+👉  Finalizado.    
 
 
 
@@ -36,17 +36,17 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 👉  HTML;
 
-👉  CSS.
+👉  CSS.    
 
 
 
 
 
-### :rocket: Demonstração 
+### :rocket: Demonstração  
 
 
 
-![img demonstration](https://raw.githubusercontent.com/andre250899/instagram-project/master/img/demonstration.png)
+![img demonstration](https://raw.githubusercontent.com/andre250899/instagram-project/master/img/demonstration.png)    
 
 
 
