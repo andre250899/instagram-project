@@ -10,17 +10,23 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 ### :rocket: Desafios
 
-👉  Primeiro projeto de clone em desenvolvimento web;
+👉  Primeiro projeto de recriação de páginas web;
 
 👉  Primeiro contato com Flexbox;
 
+👉  Primeiro contato com Git e GitHub;
+
 👉  Implementação de alguns parâmetros extras além do conteúdo ministrado (links reais, favicon, imagens, etc.).
+
+
 
 
 
 ### :rocket: Status do projeto
 
 👉  Finalizado.
+
+
 
 
 
@@ -34,9 +40,15 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 
 
+
+
 ### :rocket: Demonstração 
 
+
+
 ![img demonstration](https://raw.githubusercontent.com/andre250899/instagram-project/master/img/demonstration.png)
+
+
 
 
 
