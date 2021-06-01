@@ -36,7 +36,7 @@ Esse projeto foi concluído como parte de aprendizagem do bootcamp HTML Web Deve
 
 ### :rocket: Demonstração 
 
-<img>![image-20210601190354222](C:\Users\andre\AppData\Roaming\Typora\typora-user-images\image-20210601190354222.png)</img>
+<img>![demonstration](img\demonstration.png)</img>
 
 
 
